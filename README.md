@@ -1,0 +1,2 @@
+# CGraphIndex
+LlamaIndex with CGraph
